@@ -1,0 +1,299 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.one{
+	background-color: #f6f9f9;
+	padding: 26px 0px;
+	width: 100%;
+	float: left;
+}
+
+
+.two{
+	text-align: center;
+	background:url(../img/banner.jpg);
+	background-size: cover;
+}
+
+.two h1{
+	font-family: "lato", sans-serif;
+	font-weight: bold;
+	font-size: 120px;
+	color: #fff;
+}
+
+.two p{
+	font-size: 20px;
+    color: #fff;
+    margin: 68px;
+
+}
+
+.under-line {
+	display: block;
+    border: 1px solid #2686d2;
+    width: 25%;
+    margin: 10px auto 55px;
+}
+
+.btn{
+	padding: 16px 16px;
+    border: 1px solid #429be2;
+    background: transparent;
+    font-size: 20px;
+    color: #fff;
+    margin:0 0 280px 0;
+
+}
+
+.three{
+	background-color: #f6f9f9;
+	text-align: center;
+	padding: 70px;
+}
+
+
+.three h2{
+	    padding: 1.8cm 0 28px;
+	    font-size: 30pt;
+}
+
+.three p{
+	font-size: 16pt;
+	padding: 0 0 38px;
+}
+
+.icon{
+	padding: 70px;
+	float: left;
+}
+
+.four{
+	width: 33%;
+	float: left;
+	text-align: center;
+	padding: 
+
+}
+
+.five{
+	width: 33%;
+	float: left;
+	text-align: center;
+	
+}
+
+.six{
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+.four h2{
+	font-size: 22pt;
+
+
+}
+
+
+.four p{
+	font-size: 14pt;
+	padding: 24px;
+
+}
+
+.five h2 {
+	font-size: 22pt;
+
+}
+
+.five p{
+	font-size: 14pt;
+	padding: 24px;
+
+}
+
+.six h2 {
+	font-size: 22pt;
+
+}
+
+.six p {
+	font-size: 14pt;
+	padding: 24px;
+
+
+}
+
+.fa.fa-mobile{
+	font-size: 55px;
+	padding: 28px 30px;
+	margin: 65px 34px;
+	background-color: #5fc3ff;
+	color: #fff;
+}
+.fa.fa-paper-plane{
+	font-size: 55px;
+	padding: 28px 30px;
+	margin: 65px 34px;
+	background-color: #5fc3ff;
+	color: #fff;
+
+}
+.fa.fa-bullhorn{
+	font-size: 55px;
+	padding: 28px 30px;
+	margin: 65px 34px;
+	background-color: #5fc3ff;
+	color: #fff;
+
+}
+
+.on{
+	text-align: center;
+	padding: 0px 85px;
+
+}
+
+.on h3{
+	font-size: 41pt;
+	padding: 31px 0 3px;
+	color: #2d3950
+	
+
+
+}
+
+.on p{
+	font-size: 15pt;
+	color: #2d3950;
+
+}
+
+
+.des{
+	float: left;
+	margin: 10px;
+	padding: 85px 0 0;
+}
+
+
+.design{
+	float: left;
+	margin: 10px;
+	padding: 0 0 85px;
+}
+
+
+.form {
+	background:url(../img/last.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	float: left;
+	background-color: transparent;
+}
+
+.form-main{
+
+
+}
+
+.part-one{
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.part-one h2 {
+	color: #fff;
+
+}
+
+.part-one p {
+	color: #fff;
+
+
+}
+
+.form-control{
+	width: 100%;
+	float: left;
+	height: 35px;
+	background-color: transparent;
+	color: #fff;
+	margin: 20px 0;
+	padding:25px 0 25px 15px;
+	font-size: 25px;
+}
+
+.textarea{
+	width:100%;
+	height: 115px;
+	background-color: transparent;
+	color: #fff;
+	padding:25px 0 160px 15px;
+	font-size: 25px;
+}
+
+.fa.fa-square{
+	float: left;
+	color: #fff;
+	margin: 45px 0 125px 0;
+
+}
+
+.btn-one{
+	padding:22px 50px;
+	background-color: transparent;
+	float: right;
+	color: #fff;
+}
+
+
+.fourteen{
+	background-color: #f6f9f9;
+}
+
+.fourteen h2{
+	margin: 45px 0px 45px 0px;	
+}
+
+.fifteen{
+	list-style: none;
+	margin: 35px 35px;
+}
+
+.fifteen ul li {
+	display: inline-block;
+	text-decoration: none;
+	margin: 10px 20px;
+	padding:12px 12px;
+	color: #fff;
+	background-color: #15a4fa;
+}
+
+
+.fa.fa-facebook:hover{
+	color:#3b5998 ;
+	transition:0.4s ease;
+
+}
+.fa.fa-twitter:hover{
+	color:#00acee ;
+	transition:0.4s ease;
+
+}
+
+.fa.fa-linkedin:hover{
+	color:#0e76a8 ;
+	transition:0.4s ease;
+
+}
+
+.fa.fa-google-plus:hover{
+	color:#CC3333 ;
+	transition:0.4s ease;
+
+}
